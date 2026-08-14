@@ -13,4 +13,6 @@ jobs:
   test:
     uses: artkrsk/stub-package-workflows/.github/workflows/stub-test.yml@master
     with:
+      # Minimal repo: no phpunit/phpcs suite; php -l + clean-tree checks suffice
+      test_command: ''
       stub_file: edd-recurring-stubs.php
