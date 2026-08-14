@@ -1,0 +1,16 @@
+name: Test
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    uses: artkrsk/stub-package-workflows/.github/workflows/stub-test.yml@master
+    with:
+      stub_file: edd-recurring-stubs.php
