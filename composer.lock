@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "arts/easy-digital-downloads-stubs",
-            "version": "v3.7.0",
+            "version": "v3.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/artkrsk/easy-digital-downloads-stubs.git",
-                "reference": "bdc07b2f0bfd5344192af1337c4e21256fed97d1"
+                "reference": "9527ddad79c58117ba47c8eff9bdc895bc573abe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artkrsk/easy-digital-downloads-stubs/zipball/bdc07b2f0bfd5344192af1337c4e21256fed97d1",
-                "reference": "bdc07b2f0bfd5344192af1337c4e21256fed97d1",
+                "url": "https://api.github.com/repos/artkrsk/easy-digital-downloads-stubs/zipball/9527ddad79c58117ba47c8eff9bdc895bc573abe",
+                "reference": "9527ddad79c58117ba47c8eff9bdc895bc573abe",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 "wordpress"
             ],
             "support": {
-                "source": "https://github.com/artkrsk/easy-digital-downloads-stubs/tree/v3.7.0",
+                "source": "https://github.com/artkrsk/easy-digital-downloads-stubs/tree/v3.7.3",
                 "issues": "https://github.com/artkrsk/easy-digital-downloads-stubs/issues"
             },
             "funding": [
@@ -102,7 +102,7 @@
                     "url": "https://www.buymeacoffee.com/artemsemkin"
                 }
             ],
-            "time": "2026-08-14T05:48:07+00:00"
+            "time": "2026-11-01T05:29:32+00:00"
         },
         {
             "name": "php-stubs/wordpress-stubs",
