@@ -21,7 +21,7 @@
   "require": {
     "php": ">=8.0",
     "arts/easy-digital-downloads-stubs": "^3.0",
-    "php-stubs/wordpress-stubs": "^6.9",
+    "php-stubs/wordpress-stubs": "^7.0",
     "php-stubs/wp-cli-stubs": "^2.12"
   },
   "require-dev": {
